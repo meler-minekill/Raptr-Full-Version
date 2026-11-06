@@ -241,4 +241,4 @@ This repository serves as the official landing page for Raptr. The software is d
 **Get the most recent version of Raptr today!**
 
 ---
-**Last updated:** 2026-11-06 15:32:11 UTC
+**Last updated:** 2026-11-06 21:12:18 UTC
